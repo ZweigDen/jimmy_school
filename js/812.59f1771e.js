@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkjimmy_school"]=self["webpackChunkjimmy_school"]||[]).push([[812],{6812:function(n,t,e){e.r(t),e.d(t,{default:function(){return h}});var c=e(6252);function a(n,t,e,a,r,u){return(0,c.wg)(),(0,c.iD)("button",{type:"button",class:"btn btn-outline-dark",onClick:t[0]||(t[0]=(...n)=>u.change&&u.change(...n))},"按我")}var r=e(4051),u={data(){return{newText:"最新活動"}},methods:{change(){r.Z.emit("change",this.newText)}}},o=e(3744);const s=(0,o.Z)(u,[["render",a]]);var h=s}}]);
+//# sourceMappingURL=812.59f1771e.js.map
